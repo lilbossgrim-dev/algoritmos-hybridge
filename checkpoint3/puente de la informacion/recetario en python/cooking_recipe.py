@@ -20,7 +20,7 @@ Paso 3: Cerrar el sandwich
 ==============================================================
 """
 
-# Usaremos la misma receta de la clase empezaremos usando solo 2 variables en la receta el print y input
+# Usaremos la misma receta de la clase empezaremos usando solo 2 metodos en la receta el print y input
 # Antes de comenzar debemos de saber como funciona cada uno de los dos
 # input sirve para detener el programa y esperar a que el usuario escriba algo
 # print sirve para imprimir los textos y variables
